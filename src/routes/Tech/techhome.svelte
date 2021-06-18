@@ -1,5 +1,5 @@
 <script>
-
+let student = name;
 </script>
 <main>
 
